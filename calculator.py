@@ -15,3 +15,4 @@ def multiply(a, b):
 print("Multiply:", multiply(3, 4))
 
 print('Calculator Project by Nahed')
+It's a lesson in math
